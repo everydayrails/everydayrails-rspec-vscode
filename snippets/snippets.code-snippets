@@ -26,7 +26,7 @@
 
 	"Expect block to not": {
 		"scope": "ruby",
-		"prefix": "exb",
+		"prefix": "exbn",
 		"body": "expect {\n\t${1:actual\n}.to_not ${2:expected}",
 		"description": "RSpec expect block to not"
 	},
