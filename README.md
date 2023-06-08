@@ -46,6 +46,10 @@ RSpec snippets for Visual Studio Code, based on my book [Everyday Rails Testing 
 
 ## Release Notes
 
+### 0.0.2
+
+* Fix _expect block to not_ snippet
+* Document snippets in README
 ### 0.0.1
 
 Initial release (port from Atom package with some additions)

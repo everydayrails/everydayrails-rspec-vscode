@@ -2,7 +2,7 @@
   "name": "everyday-rails-rspec-snippets",
   "displayName": "Everyday Rails RSpec Snippets",
   "description": "RSpec snippets based on Everyday Rails Testing with RSpec",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/everydayrails/everydayrails-rspec-vscode",
   "publisher": "everydayrails",
   "engines": {
