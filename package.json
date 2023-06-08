@@ -1,0 +1,20 @@
+{
+  "name": "everyday-rails-rspec-snippets",
+  "displayName": "Everyday Rails RSpec Snippets",
+  "description": "RSpec snippets based on Everyday Rails Testing with RSpec",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "ruby",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
